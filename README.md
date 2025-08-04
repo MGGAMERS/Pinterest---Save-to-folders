@@ -13,7 +13,7 @@ This project focuses on enhancing the Pinterest mobile app by adding a **"Save t
 ## 📸 Screenshots
 
 ### 1. Home Feed UI
-![Home Feed](images/home_feed.png)
+![Home Feed](images/Home_pg.png)
 
 ### 2. Save to Folder Modal
 ![Save Modal](images/save_modal.png)
