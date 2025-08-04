@@ -22,7 +22,7 @@ This project focuses on enhancing the Pinterest mobile app by adding a **"Save t
 <img src="images/collection_pg.png" alt="Folder View" width="400"/>
 
 ## 📁 Figma Prototype
-Check out the interactive prototype here: [Figma Design Link]((https://www.figma.com/design/qVPkzIMJ44AtUFNmuHGKsw/Pinterest-Menu?node-id=0-1&p=f&t=KBdBwdmv1YVagZ5A-0))
+Check out the interactive prototype here: [Figma Design Link](https://www.figma.com/design/qVPkzIMJ44AtUFNmuHGKsw/Pinterest-Menu?node-id=0-1&p=f&t=KBdBwdmv1YVagZ5A-0)
 
 ---
 
