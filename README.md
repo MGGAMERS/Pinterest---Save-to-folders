@@ -15,11 +15,11 @@ This project focuses on enhancing the Pinterest mobile app by adding a **"Save t
 ### 1. Home Feed UI
 ![Home Feed](images/Home_pg.png)
 
-### 2. Save to Folder Modal
-![Save Modal](images/save_modal.png)
+### 2. Settings Page
+![Save Modal](images/settings_pg.png)
 
 ### 3. Folder Organization View
-![Folder View](images/folder_view.png)
+![Folder View](images/collection_pg.png)
 
 ## 📁 Figma Prototype
 Check out the interactive prototype here: [Figma Design Link](https://www.figma.com/your-prototype-link)
